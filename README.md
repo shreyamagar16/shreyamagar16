@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreya Magar</h1>
+<h1 align="center">Hi I'm Shreya </h1>
 <h3 align="center">Information Technology Student | Aspiring Machine Learning Engineer | Tech Explorer</h3>
 
 -  🌱 My interests lie in **Machine Learning, Data Science , AppDev**
@@ -15,7 +15,6 @@
 
 ### 🧰 Languages and Tools
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
