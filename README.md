@@ -40,13 +40,9 @@
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyamagar16
-  &theme=dracula
-  &no-frame=true
-  &row=1
-  &column=4
-  &title=Commit,PullRequest,Issue,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shreyamagar16&theme=dracula&no-frame=true&title=Commit,PullRequest" />
 </p>
+
 
 ---
 
