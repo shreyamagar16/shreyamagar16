@@ -40,14 +40,14 @@
 
 ### 🏆 Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shreyamagar16&theme=dracula&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shreyamagar16
+  &theme=dracula
+  &no-frame=true
+  &row=1
+  &column=4
+  &title=Commit,PullRequest,Issue,Repositories" />
 </p>
 
 ---
 
-
-## 🐍 Contribution Graph (Snake)
-![snake gif](https://raw.githubusercontent.com/shreyamagar16/shreyamagar16/output/github-contribution-grid-snake-dark.svg)
-
----
 
