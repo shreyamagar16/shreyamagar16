@@ -13,8 +13,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
     <span>&nbsp; LinkedIn: shreya-magar</span>
   </a>
+  <br/>
+  Reach me at: <a href="mailto:shreyamagar1602@gmail.com">shreyamagar1602@gmail.com</a>
 </p>
-- Reach me at: **shreyamagar1602@gmail.com**
+
 
 ### 🧰 Languages and Tools
 <p align="left">
