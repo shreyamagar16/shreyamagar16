@@ -1,17 +1,20 @@
-<h1 align="center">Hi I'm Shreya </h1>
+
 <h3 align="center">Information Technology Student | Aspiring Machine Learning Engineer | Tech Explorer</h3>
 
 -  🌱 My interests lie in **Machine Learning, Data Science , AppDev**
 - 💡 I enjoy creating **websites, apps, and practical tools** that solve real problems
 - 📚 Actively working on **projects, hackathons, and hands-on learning**
 - 
-### 📫 Connect With Me
-- Reach me at: **shreyamagar1602@gmail.com**
 
+
+### 📫 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/shreya-magar" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/shreya-magar" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <span>&nbsp; LinkedIn: shreya-magar</span>
+  </a>
+</p>
+- Reach me at: **shreyamagar1602@gmail.com**
 
 ### 🧰 Languages and Tools
 <p align="left">
