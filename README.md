@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shreya Magar</h1>
+<h3 align="center">Information Technology Student | Aspiring Machine Learning Engineer | Tech Explorer</h3>
 
-<!--
-**shreyamagar16/shreyamagar16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  🌱 My interests lie in **Machine Learning, Data Science , AppDev**
+- 💡 I enjoy creating **websites, apps, and practical tools** that solve real problems
+- 📚 Actively working on **projects, hackathons, and hands-on learning**
+- 
+### 📫 Connect With Me
+- Reach me at: **shreyamagar1602@gmail.com**
 
-Here are some ideas to get you started:
+<p align="left">
+<a href="https://www.linkedin.com/in/shreya-magar" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Languages and Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 👀 Visitors Count
+![Visitor Count](https://komarev.com/ghpvc/?username=shreyamagar16&style=for-the-badge&color=ff69b4)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shreyamagar16&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamagar16&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shreyamagar16&theme=dracula&column=6" />
+</p>
+
+---
+
+
+## 🐍 Contribution Graph (Snake)
+![snake gif](https://raw.githubusercontent.com/shreyamagar16/shreyamagar16/output/github-contribution-grid-snake-dark.svg)
+
+---
+
