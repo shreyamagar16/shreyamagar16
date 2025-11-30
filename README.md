@@ -1,10 +1,9 @@
 
 <h3 align="center">Information Technology Student | Aspiring Machine Learning Engineer | Tech Explorer</h3>
 
--  🌱 My interests lie in **Machine Learning, Data Science , AppDev**
-- 💡 I enjoy creating **websites, apps, and practical tools** that solve real problems
-- 📚 Actively working on **projects, hackathons, and hands-on learning**
-- 
+- My interests lie in **Machine Learning, Data Science , AppDev**
+- I enjoy creating **websites, apps, and practical tools** that solve real problems
+- Actively working on **projects, hackathons, and hands-on learning**
 
 
 ### 📫 Connect With Me
